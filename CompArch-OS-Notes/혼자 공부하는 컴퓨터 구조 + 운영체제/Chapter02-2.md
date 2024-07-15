@@ -75,8 +75,8 @@
 위 사이트에서 인코딩 방식 목록 중 EUC-KR(KS X 1001)로 변경하고 텍스트 필드에 '가'라는 글자를 입력해보면,  
 **Encoded**부분에서 '가' 글자의 이진수, 십육진수 표현값을 확인할 수 있다.
 
-![dencodeImage1](CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/images/dencodeTextField.png)
-![dencodeImage2](CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/images/dencodeEncoded.pn1g)
+![dencodeImage1](images/dencodeTextField.png)
+![dencodeImage2](images/dencodeEncoded.png)
 
 EUC-KR 인코딩 방식으로 2,350개 정도의 한글 단어를 표현할 수 있지만 모든 한글 조합을 표현할 수 있을 정도로 많은 양은 아니기 때문에,  
 EUC-KR 인코딩을 사용하는 웹사이트는 한글이 깨진다거나 사용할 수 없는 단어로 인해 피해를 보는 경우도 발생한다.
