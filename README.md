@@ -9,6 +9,8 @@
     - 이진법, 십육진법
 - [Chapter02 데이터 - 2](CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/Chapter02-2.md)
     - 문자 집합(ASCII, Unicode)과 인코딩
+- [Chapter03 명령어](CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/Chapter03.md)
+    - 고급 언어와 저급 언어
 
 ### References
 - 혼자 공부하는 컴퓨터 구조 + 운영체제 (한빛미디어)
