@@ -12,8 +12,11 @@
 - [소스 코드와 명령어](CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/Chapter03-1.md)
     - 고급 언어와 저급 언어
     - 컴파일 언어와 인터프리터 언어
+- [명령어의 구조](CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/Chapter03-2.md)
+    - 연산 코드와 오퍼랜드
+    - 주소 지정 방식
 
 ### References
 - 혼자 공부하는 컴퓨터 구조 + 운영체제 (한빛미디어)
 - [Youtube 강의](https://www.youtube.com/playlist?list=PLVsNizTWUw7FCS83JhC1vflK8OcLRG0Hl)
----
+--- -
