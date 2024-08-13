@@ -20,6 +20,9 @@
 - [레지스터](CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/Chapter04-2.md)
     - PC, IR, MAR, MBR, Flag Register, General Purpose Register, Stack Pointer, Base Register
     - 변위 주소 지정 방식
+- [명령어 사이클과 인터럽트](CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/Chapter04-3.md)
+    - 명령어 사이클
+    - 동기 인터럽트, 비동기 인터럽트
 
 ### References
 - [혼자 공부하는 컴퓨터 구조 + 운영체제 (한빛미디어)](https://www.youtube.com/playlist?list=PLVsNizTWUw7FCS83JhC1vflK8OcLRG0Hl)
