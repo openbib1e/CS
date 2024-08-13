@@ -31,7 +31,7 @@
 ## Algorithm
 
 ### 이것이 취업을 위한 코딩테스트다 with 파이썬
-- [그리디](CompArch-OS-Notes/Algorithm/이코테/Chapter03.md)
+- [그리디](CompArch-OS-Notes/Algorithm/Greedy)
 
 ### References
 - [이것이 취업을 위한 코딩테스트다 with 파이썬](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
