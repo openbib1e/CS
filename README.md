@@ -25,6 +25,8 @@
     - 동기 인터럽트, 비동기 인터럽트
 - [빠른 CPU를 위한 설계 기법](./CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/Chapter05-1.md)
     - 클럭, 코어, 스레드
+- [명령어 병렬 처리 기법](./CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/Chapter05-2.md)
+    - 명령어 파이프라인
 
 ### References
 - [혼자 공부하는 컴퓨터 구조 + 운영체제 (한빛미디어)](https://www.youtube.com/playlist?list=PLVsNizTWUw7FCS83JhC1vflK8OcLRG0Hl)
