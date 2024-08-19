@@ -27,6 +27,10 @@
     - 클럭, 코어, 스레드
 - [명령어 병렬 처리 기법](./CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/Chapter05-2.md)
     - 명령어 파이프라인
+    - 슈퍼스칼라, OoOE
+- [CISC와 RISC](./CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/Chapter05-3.md)
+    - 명령어 집합 구조(ISA)
+    - CISC & RISC
 
 ### References
 - [혼자 공부하는 컴퓨터 구조 + 운영체제 (한빛미디어)](https://www.youtube.com/playlist?list=PLVsNizTWUw7FCS83JhC1vflK8OcLRG0Hl)
