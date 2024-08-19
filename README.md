@@ -37,6 +37,6 @@
 ---
 
 ## Algorithm
-- [그리디](CompArch-OS-Notes/Algorithm/Greedy)
+- [그리디](./Algorithm/Greedy)
 
 ---
