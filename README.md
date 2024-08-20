@@ -38,12 +38,17 @@
 - [CISC와 RISC](./CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/Chapter05-3.md)
     - 명령어 집합 구조(ISA)
     - CISC & RISC
+- [RAM의 특징과 종류](./CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/Chapter06-1.md)
+    - RAM의 특징(휘발성, 비휘발성)
+    - RAM 용량과 성능
+    - RAM의 종류(DRAM, SRAM, SDRAM, DDR SDRAM)
 
 ### References
 - [혼자 공부하는 컴퓨터 구조 + 운영체제 (한빛미디어)](https://www.youtube.com/playlist?list=PLVsNizTWUw7FCS83JhC1vflK8OcLRG0Hl)
 ---
 
 ## Algorithm
+- [백준 단계별로 풀어보기](./Algorithm/BAEKJOON/단계별로%20풀어보기)
 - [그리디](./Algorithm/Greedy)
 
 ---
