@@ -46,6 +46,10 @@
     - 물리 주소 & 논리 주소
     - MMU
     - 한계 레지스터
+- [캐시 메모리](./CompArch-OS-Notes/혼자%20공부하는%20컴퓨터%20구조%20+%20운영체제/Chapter06-3.md)
+    - 저장 장치 계층 구조
+    - 캐시 메모리
+    - 캐시 적중률
 
 ### References
 - [혼자 공부하는 컴퓨터 구조 + 운영체제 (한빛미디어)](https://www.youtube.com/playlist?list=PLVsNizTWUw7FCS83JhC1vflK8OcLRG0Hl)
