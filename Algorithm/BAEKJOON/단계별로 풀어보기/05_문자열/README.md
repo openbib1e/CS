@@ -9,5 +9,5 @@
 | 07     | [2675](https://www.acmicpc.net/problem/2675) | <img src="../../images/브2.svg" alt="브2" width="25"/> | [문자열 반복](./05_solution/07_2675.md) | ✅ |
 | 08     | [1152](https://www.acmicpc.net/problem/1152) | <img src="../../images/브2.svg" alt="브2" width="25"/> | [단어의 개수](./05_solution/08_1152.md) | ✅ |
 | 09     | [2908](https://www.acmicpc.net/problem/2908) | <img src="../../images/브2.svg" alt="브2" width="25"/> | [상수](./05_solution/09_2908.md) | ✅ |
-| 10     | [27866](https://www.acmicpc.net/problem/27866) | <img src="../../images/브5.svg" alt="브5" width="25"/> | [문자와 문자열](./05_solution/01_27866.md) | ✅ |
-| 11     | [27866](https://www.acmicpc.net/problem/27866) | <img src="../../images/브5.svg" alt="브5" width="25"/> | [문자와 문자열](./05_solution/01_27866.md) | ✅ |
+| 10     | [5622](https://www.acmicpc.net/problem/5622) | <img src="../../images/브2.svg" alt="브2" width="25"/> | [다이얼](./05_solution/10_5622.md) | ✅ |
+| 11     | [11718](https://www.acmicpc.net/problem/11718) | <img src="../../images/브3.svg" alt="브3" width="25"/> | [그대로 출력하기](./05_solution/11_11718.md) | ✅ |
