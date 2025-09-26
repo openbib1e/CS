@@ -6,4 +6,4 @@
 | 04       | [14681](https://www.acmicpc.net/problem/14681) | <img src="../../images/브5.svg" alt="브5" width="25"/> | [사분면 고르기](./solution/04_14681.md) |    ✅    |
 | 05       | [2884](https://www.acmicpc.net/problem/2884)   | <img src="../../images/브3.svg" alt="브3" width="25"/> | [알람 시계](./solution/05_2884.md)      |    ✅    |
 | 06       | [2525](https://www.acmicpc.net/problem/2525)   | <img src="../../images/브3.svg" alt="브3" width="25"/> | [오븐 시계](./solution/06_2525.md)      |    ✅    |
-| 07       | [2480](https://www.acmicpc.net/problem/2480)   | <img src="../../images/브4.svg" alt="브4" width="25"/> | [주사위 세개]()                         |          |
+| 07       | [2480](https://www.acmicpc.net/problem/2480)   | <img src="../../images/브4.svg" alt="브4" width="25"/> | [주사위 세개](./solution/07_2480.md)    |    ✅    |
